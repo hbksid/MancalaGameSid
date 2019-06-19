@@ -18,6 +18,7 @@ class Mancala {
         secondPlayer!!.playerNumber = 2
         firstPlayer!!.isActive = true
         secondPlayer!!.isActive = true
+
     }
 
     var activePlayer: Players? = null
